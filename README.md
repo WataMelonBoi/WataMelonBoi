@@ -12,11 +12,7 @@
 ---
 
 ### 🛠️ Co aktualnie buduję
-- **AI-powered automations & macros** – inteligentne skrypty, które robią za ciebie nudną robotę
-- **LLM applications** – lokalne i chmurowe agenty, RAG, fine-tuning
-- **Narzędzia solo dev** – wszystko co pozwala jednemu człowiekowi pracować jak zespół
-
-**Aktualnie eksperymentuję z:** multimodal AI, local LLMs i zaawansowanymi automatyzacjami.
+- **Narazie nic, uczę się dopiero.
 
 ### 🔥 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -30,11 +26,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WataMelonBoi&layout=compact&theme=radical)
 
 ### 📬 Connect with me
-- **X / Twitter** → [twój link]
-- **LinkedIn** → [twój link]
-- **Blog / Portfolio** → [twój link]
-- **Discord / Email** → adam@watamelon.dev (lub cokolwiek)
+- **X / Twitter** → [banned currently]
+- **LinkedIn** → [banned currently]
+- **Blog / Portfolio** → [not yet]
+- **Discord / Email** → helpadam070@gmail.com
 
 ---
-
-*Solo dev. Zero bullshit. Tylko działające rozwiązania.*
